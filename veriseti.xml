@@ -1,0 +1,26 @@
+<?xml version="1.0"?>
+<books>
+    <book>
+        <dcTitle>Ahmet Ümit’ten polisiyeyi arkeoloji ve mitolojiyle harmanlayan usta işi bir roman.</dcTitle>
+        <dcImage>img/bir.jpeg</dcImage>
+    </book>
+    <book>
+        <dcTitle>Patasana, Ahmet Ümit'in 2000 yılında yayımlanan polisiye romanı. Birinci Tablet syf.19, "Ben zalimler çağında yaşayan bir alçaktım" ile başlamaktadır.</dcTitle>
+        <dcImage>img/iki.jpeg</dcImage>
+    </book>
+
+    <book>
+        <dcTitle>Ömer Seyfettin, konusunu günlük olaylardan, hatıralardan, tarih, masal ve efsaneden alan etkileyici hikâyeler yazmıştır.</dcTitle>
+        <dcImage>img/uc.jpeg</dcImage>
+    </book>
+
+    <book>
+        <dcTitle>Son Kuşlar, Türk yazar Sait Faik Abasıyanık'ın 1952 yılında yayınlanan hikâye kitabı.</dcTitle>
+        <dcImage>img/dort.jpeg</dcImage>
+    </book>
+
+    <book>
+        <dcTitle>Sefiller, Victor Hugo tarafından yazılan tarihi romandır. İlk olarak 1862'de yayınlandı. 19. yüzyılın en büyük eserlerinden biri olarak kabul gördü.</dcTitle>
+        <dcImage>img/bes.jpeg</dcImage>
+    </book>
+</books>
